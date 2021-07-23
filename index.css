@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://raw.githubusercontent.com/Asabeneh/30-Days-Of-JavaScript/master/24_Day_Project_solar_system/24_day_starter/images/galaxy.gif");
+}
+
+h1.main-header{
+    margin-bottom: 100px;
+    color: white;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+select.main-select{
+    position: absolute;
+    left: 48.5%;
+    height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    background: #eee;
+    text-align: center;
+}
+
+input.main-input{
+    position: absolute;
+    left: 27%;
+    height: 35px;
+    width: 400px;
+    border-radius: 10px;
+    border: none;
+    background: #eee;
+    text-align: center;
+}
+
+button.main-button{
+    position: absolute;
+    left: 62%;
+    height: 35px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+}
